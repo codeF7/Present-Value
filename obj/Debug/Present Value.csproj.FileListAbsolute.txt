@@ -1,0 +1,9 @@
+c:\users\gabriel\documents\visual studio 2012\Projects\Present Value\Present Value\bin\Debug\Present Value.exe.config
+c:\users\gabriel\documents\visual studio 2012\Projects\Present Value\Present Value\bin\Debug\Present Value.exe
+c:\users\gabriel\documents\visual studio 2012\Projects\Present Value\Present Value\bin\Debug\Present Value.pdb
+c:\users\gabriel\documents\visual studio 2012\Projects\Present Value\Present Value\obj\Debug\Present Value.csprojResolveAssemblyReference.cache
+c:\users\gabriel\documents\visual studio 2012\Projects\Present Value\Present Value\obj\Debug\Present_Value.Form1.resources
+c:\users\gabriel\documents\visual studio 2012\Projects\Present Value\Present Value\obj\Debug\Present_Value.Properties.Resources.resources
+c:\users\gabriel\documents\visual studio 2012\Projects\Present Value\Present Value\obj\Debug\Present Value.csproj.GenerateResource.Cache
+c:\users\gabriel\documents\visual studio 2012\Projects\Present Value\Present Value\obj\Debug\Present Value.exe
+c:\users\gabriel\documents\visual studio 2012\Projects\Present Value\Present Value\obj\Debug\Present Value.pdb
